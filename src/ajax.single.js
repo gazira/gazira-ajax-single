@@ -50,6 +50,10 @@ var single = function (params) {
         }
     };
 
+    if(!params.dataType) {
+        params.dataType = 'json';
+    }
+
     var xhr = ajax(params);
     _caches[obj.name] = {
         xhr: xhr,
