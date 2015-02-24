@@ -1,0 +1,22 @@
+{
+    "name": "gazira-ajax-single",
+    "version": "0.0.1",
+    "main": "index.js",
+    "description": "control to send ajax request",
+    "keywords": [
+        "jquery", "ajax"
+    ],
+    "spm": {
+        "main": "index.js",
+        "dependencies": {
+            "jquery": "1.11.1"
+        },
+        "devDependencies": {
+        },
+        "tests": "",
+        "ignore": [
+            "components"
+        ],
+        "buildArgs": ""
+    }
+}
