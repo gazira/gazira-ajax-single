@@ -2,7 +2,7 @@
     "name": "gazira-ajax-single",
     "version": "0.0.1",
     "main": "index.js",
-    "description": "control to send ajax request",
+    "description": "control ajax request",
     "keywords": [
         "jquery", "ajax"
     ],
